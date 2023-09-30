@@ -1,0 +1,8 @@
+Hello World
+Ups Error
+┌───────────┬─────────────────┐
+│  (index)  │     Values      │
+├───────────┼─────────────────┤
+│ firstName │ 'Arief Rachman' │
+│ lastName  │     'Hakim'     │
+└───────────┴─────────────────┘
